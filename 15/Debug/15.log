@@ -1,0 +1,35 @@
+﻿Построение начато 06.07.2015 16:38:05.
+     1>Проект "D:\Program Files\eMule IS Mod\Incoming\15\15\15\15.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\15.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\15.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt 15.cpp /clr:nostdlib 
+         15.cpp
+     1>d:\program files\emule is mod\incoming\15\15\15\Form1.h(66): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\program files\emule is mod\incoming\15\15\15\form1.h(563): warning C4715: My15::Form1::find_zero: значение возвращается не при всех путях выполнения
+     1>d:\program files\emule is mod\incoming\15\15\15\form1.h(570): warning C4715: My15::Form1::find_num: значение возвращается не при всех путях выполнения
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program Files\eMule IS Mod\Incoming\15\15\Debug\15.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\My15.Form1.resources /MANIFEST /ManifestFile:"Debug\15.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Program Files\eMule IS Mod\Incoming\15\15\Debug\15.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\15.obj
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         15.vcxproj -> D:\Program Files\eMule IS Mod\Incoming\15\15\Debug\15.exe
+       Manifest:
+         D:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Program Files\eMule IS Mod\Incoming\15\15\Debug\15.exe;#1" /manifest Debug\15.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\15.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\15.lastbuildstate".
+     1>Построение проекта "D:\Program Files\eMule IS Mod\Incoming\15\15\15\15.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:18.29
